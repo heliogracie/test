@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Gadzhimari Kachaev <gadzhimari@gmail.com>",
-  "license": "ISC",
+  "license": "GPL",
   "devDependencies": {
     "browser-sync": "^2.12.5",
     "gulp": "^3.9.1",
