@@ -8,3 +8,9 @@
 	width: 50%;
 	transform: translate(-50%, -50%);
 }
+
+.current-block {
+	position: absolute;
+	top: 0;
+	left: 0;
+}
