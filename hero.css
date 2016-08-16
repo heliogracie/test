@@ -1,1 +1,5 @@
-busta hero and man
+.wrapper {
+	overflow: hidden;
+	background: #fff;
+	height: 20px;
+}
