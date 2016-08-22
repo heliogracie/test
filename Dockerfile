@@ -1,2 +1,3 @@
-FROM 192.168.0.1
-FROM 192.168.200.20
+FROM ubuntu
+MAINTAINER Gadzhimari Kachaev <gadzhimari@gmail.com>
+RUN apt-get update && apt-get install -y git
